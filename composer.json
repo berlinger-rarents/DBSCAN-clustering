@@ -1,0 +1,16 @@
+{
+  "name": "bhavikm/dbscan-clustering",
+  "description": "Example of density based clustering algorithm DBSCAN in PHP",
+  "type": "library",
+  "authors": [
+    {
+      "name": "Bhavik Maneck",
+      "homepage": "https://github.com/bhavikm"
+    }
+  ],
+  "autoload": {
+    "classmap": [
+      ""
+    ]
+  }
+}
